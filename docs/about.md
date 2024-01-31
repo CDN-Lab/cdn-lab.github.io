@@ -43,10 +43,10 @@ Qualifications:
 
 Experience with any of the following is not required, but preferred:
 ------
-•	Computational modeling
-•	Dynamic analysis of longitudinal or time series data
-•	Machine learning
-
+•	Computational modeling (mathematical optimization, reinforcement learning, Bayesian inference, neuroeconomics or other types of modeling of human/animal learning and decision-making)
+- statistical inference (e.g. generalized linear models, mixed effect models, state space models, survival analysis)
+•	Dynamic analysis of longitudinal or time series data (e.g. neuroimaging, MEg, EEG, or neural recordings)
+•	Advanced statistical methods and machine learning
 
 The data analyst will work under the supervision of Dr. Silvia Lopez-Guzman on projects that aim to understand (1) the process of adaptively evaluating options and committing to a choice; (2) how changes in internal and motivational states may abnormally shape decisions in individuals with and without psychopathology; and (3) how cognitive and metacognitive resources support these adaptive or maladaptive decision-making processes. The CDN lab leverages the rich clinical resources and computational expertise across the NIH, and collaborates actively with labs that specialize on addiction, depression, anxiety, and pain. The lab is an active part of a growing community of expert labs on learning and decision-making who work together to improve our understanding from the circuits and behavioral neuroscience level to the human cognitive and clinical levels, making this a unique opportunity for any scientist with an interest in decision science and computational psychiatry.
 
