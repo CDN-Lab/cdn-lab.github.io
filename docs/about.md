@@ -1,50 +1,52 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "CDN job ads"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+HIRING: Data Analyst / Data Sceintist Position at the CDN Lab 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The Unit on Computational Decision Neuroscience (CDN) at the National Institute of Mental Health Intramural Research Program is seeking a full-time Data Scientist/Data Analyst.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The lab is focused on understanding the neural and computational bases of adaptive and maladaptive decision-making and their relationship to mental health. Current studies investigate how internal states lead to biases in decision-making and how this exacerbated in mental health disorders. Our approach involves a combination of computational model-based tasks, questionnaires, biosensor data, fMRI, and intracranial recordings. The main models of interest come from neuroeconomics, reinforcement learning, Bayesian inference, signal detection, and information theory. 
 
-Getting started
+The main tasks for this position include but are not restricted to computational modeling of behavioral data from decision-making and other cognitive tasks, statistical analysis of task-based, clinical, physiological and neuroimaging data, as well as data visualization for the purposes of scientific presentations, public communication, and academic manuscripts. The candidate is expected to demonstrate experience with best practices for the development of well-documented, reproducible programming pipelines for data analysis, that facilitate sharing and collaboration, and live up to our open-science philosophy, as well as to our data management and sharing commitments at NIH.
+
+No prior experience with psychiatry research is needed but a familiarity with the constructs and models of interest in the lab (value-based learning and decision-making, metacognition, belief updating, emotion regulation, and/or effort-cost estimation) is desirable, as these are universally important for understanding adaptive healthy functioning and psychiatric disease.
+
+This is an exciting opportunity for a candidate with established programming and analytic skills to work at the cutting edge of psychiatry research and computational cognitive neuroscience. 
+
+Job Requirements:
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+•	Assisting with setting up and managing analysis pipelines
+•	Conducting advanced analysis of behavioral, physiological, and imaging data, including but not limited to computational modeling and machine learning
+•	Integrating complex datasets across multiple modalities, including fMRI, electrophysiology, biosensor data neuroendocrinology, behavior, and self-report
+•	Assisting in data visualization for manuscripts and presentation of results at scientific meetings
+•	Supporting/co-mentoring junior members of the lab on data analysis practices
 
-Site-wide configuration
+Qualifications:
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+•	A PhD in neuroscience, cognitive science, psychology, computer science, data science, statistics, engineering, or a related field
+•	Strong programming skills (ideally in Python, and/or MATLAB, R)
+•	Experience working within Linux environment and cloud computing
+•	An ability to work well in multidisciplinary and highly collaborative teams
+•	An interest in translational research
+•	A track record or potential for scholarly productivity
+•	Effective independent problem-solving and task prioritization
 
-Create content & metadata
+Experience with any of the following is not required, but preferred:
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+•	Computational modeling
+•	Dynamic analysis of longitudinal or time series data
+•	Machine learning
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+The data analyst will work under the supervision of Dr. Silvia Lopez-Guzman on projects that aim to understand (1) the process of adaptively evaluating options and committing to a choice; (2) how changes in internal and motivational states may abnormally shape decisions in individuals with and without psychopathology; and (3) how cognitive and metacognitive resources support these adaptive or maladaptive decision-making processes. The CDN lab leverages the rich clinical resources and computational expertise across the NIH, and collaborates actively with labs that specialize on addiction, depression, anxiety, and pain. The lab is an active part of a growing community of expert labs on learning and decision-making who work together to improve our understanding from the circuits and behavioral neuroscience level to the human cognitive and clinical levels, making this a unique opportunity for any scientist with an interest in decision science and computational psychiatry.
 
-How to edit your site's GitHub repository
+How to Apply:
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+To apply, please send your CV and a cover letter to Dr. Silvia Lopez-Guzman (silvia.lopezguzman@nih.gov ) with the subject “CDN Lab Data Analyst App”. Inquiries about any aspect of the position are very welcome!
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
