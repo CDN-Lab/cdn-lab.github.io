@@ -19,8 +19,12 @@ No prior experience with psychiatry research is needed but a familiarity with th
 
 This is an exciting opportunity for a candidate with established programming and analytic skills to work at the cutting edge of psychiatry research and computational cognitive neuroscience. 
 
+You can find more about our work and recent publications at
+
+https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/cdn
+
 Job Requirements:
-======
+------
 •	Assisting with setting up and managing analysis pipelines
 •	Conducting advanced analysis of behavioral, physiological, and imaging data, including but not limited to computational modeling and machine learning
 •	Integrating complex datasets across multiple modalities, including fMRI, electrophysiology, biosensor data neuroendocrinology, behavior, and self-report
