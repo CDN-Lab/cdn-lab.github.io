@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-HIRING: Data Analyst / Data Sceintist Position at the CDN Lab 
+HIRING: Data Analyst / Data Scientist Position at the CDN Lab 
 ======
 The Unit on Computational Decision Neuroscience (CDN) at the National Institute of Mental Health Intramural Research Program is seeking a full-time Data Scientist/Data Analyst.
 
