@@ -19,7 +19,7 @@ The fellow will have access to data from several ongoing projects, as well as a 
 
 You can find more about our work and recent publications at
 
-https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/cdn
+<https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/cdn>
 
 Job Requirements:
 ------
